@@ -1,4 +1,4 @@
-# CIE - Centro Incubación Empresarial
+# cie - Centro Incubación Empresarial
 
 | Repositories                                                | Description of the repositories                              |
 | ----------------------------------------------------------- | ------------------------------------------------------------ |
